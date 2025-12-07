@@ -5,9 +5,16 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
+        if len(s) != len(t):
+            return False
         
-        if len(t)==len(s):
-            list1=sorted(t.lower())
-            list2=sorted(s.lower())
-            return list1==list2
-        return False
+        freq = [0] * 26
+        for i in range(len(s)):
+            freq[ord(s[i]) - ord('a')] += 1
+            freq[ord(t[i]) - ord('a')] -= 1
+        
+        for i in range(len(freq)):
+            if freq[i] != 0:
+                return False
+        
+        return True
