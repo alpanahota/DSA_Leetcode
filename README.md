@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/alpanahota/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/alpanahota/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+| [1929-concatenation-of-array](https://github.com/alpanahota/DSA_Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/alpanahota/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/alpanahota/DSA_Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
