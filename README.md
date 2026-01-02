@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/alpanahota/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/alpanahota/DSA_Leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/alpanahota/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/alpanahota/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/alpanahota/DSA_Leetcode/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/alpanahota/DSA_Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/alpanahota/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/alpanahota/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/alpanahota/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alpanahota/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/alpanahota/DSA_Leetcode/tree/master/0705-design-hashset) |
 ## String
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alpanahota/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/alpanahota/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alpanahota/DSA_Leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
