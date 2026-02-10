@@ -1,29 +1,21 @@
-class Solution:
-   
-    def setZeroes(self, matrix):
-       
-        m = len(matrix)
-       
-        n = len(matrix[0])
-
+class Solution(object):
+    def setZeroes(self, mat):
+        """
+        :type matrix: List[List[int]]
+        :rtype: None Do not return anything, modify matrix in-place instead.
+        """
+        n = len(mat)
+        m = len(mat[0])
+        mr = [0]*n
+        mc = [0]*m 
+        for i in range (n):
+            for j in range (m):
+                if mat[i][j] == 0:
+                    mr[i] = 1
+                    mc[j] = 1
+        for i in range (n):
+            for j in range (m):
+                if mc[j] == 1 or mr[i] == 1:
+                    mat[i][j] = 0
+        return mat
         
-        row = [0] * m
-       
-        col = [0] * n
-
-        
-        for i in range(m):
-            for j in range(n):
-                
-                if matrix[i][j] == 0:
-                    row[i] = 1
-                    col[j] = 1
-
-        
-        for i in range(m):
-            for j in range(n):
-                
-                if row[i] == 1 or col[j] == 1:
-                    matrix[i][j] = 0
-
-
