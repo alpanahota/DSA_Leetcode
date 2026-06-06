@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/alpanahota/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/alpanahota/DSA_Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
