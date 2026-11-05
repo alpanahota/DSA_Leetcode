@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/alpanahota/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/alpanahota/DSA_Leetcode/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/alpanahota/DSA_Leetcode/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/alpanahota/DSA_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/alpanahota/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alpanahota/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/alpanahota/DSA_Leetcode/tree/master/0705-design-hashset) |
+| [2965-find-missing-and-repeated-values](https://github.com/alpanahota/DSA_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -68,8 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/alpanahota/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/alpanahota/DSA_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/alpanahota/DSA_Leetcode/tree/master/0584-find-customer-referee) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/alpanahota/DSA_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
